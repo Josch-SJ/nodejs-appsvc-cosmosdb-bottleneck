@@ -257,4 +257,3 @@ This is where things get more interesting - to apply all of the above to an appl
 2. Run load test interactively
 3. Discuss what changes may be needed to the application or test to get better results
 4. Automate in GitHub action - setting success criteria
- 
